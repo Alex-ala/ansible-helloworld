@@ -1,0 +1,5 @@
+---
+- hosts: host_alias # Host alias from inventory
+  become: true      # Execute everything as root? See become documentation
+  roles:            # Roles to execute in this order
+    - hello_world

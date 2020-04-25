@@ -1,0 +1,5 @@
+---
+# defaults file for hello-world
+# set default variables here
+
+example_variable: "Hello"

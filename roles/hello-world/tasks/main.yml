@@ -1,0 +1,6 @@
+---
+# These are the tasks to be executed
+
+- name: This is a glorious step name
+  debug:
+    msg: "HELLO WORLD"
